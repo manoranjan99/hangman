@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="action_settings">Settings</string>
+    <string name="word1">genre</string>
+    <string name="word2">animals</string>
+    <string name="word3">clothes</string>
+    <string name="word4">films</string>
+    <string name="word5">entertainment</string>
+    <string name="word6">jobs</string>
+    <string name="word7">summer</string>
+    <string name="word8">halloween</string>
+    <string name="word9">building</string>
+    <string name="word10">room</string>
+    <string name="word11">transport</string>
+    <string name="word12">work</string>
+    <string name="word13">oxygen</string>
+    <string name="word14">quiz</string>
+    <string name="word15">rhythm</string>
+
+
+    <string name="play">Play</string>
+
+    <string name="gallows">The Gallows</string>
+    <string name="head">The Head</string>
+    <string name="body">The Body</string>
+    <string name="arm">An Arm</string>
+    <string name="leg">A Leg</string>
+
+
+</resources>
